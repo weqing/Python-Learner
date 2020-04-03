@@ -10,3 +10,4 @@
   use Scrapy(a framework of python) to get the information from Sina Weibo and store into Mysql.
 4.Wechat crawler
   Also use Scrapy to acquire the data from wechat essay.
+  
